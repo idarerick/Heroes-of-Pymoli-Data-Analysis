@@ -43,7 +43,11 @@ Your final report should include each of the following:
 
 ### Age Demographics
 
+<<<<<<< HEAD
 * The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
+=======
+* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+>>>>>>> c4b47ddd9da817fa7dfb7911c3a6acd79d87e026
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -86,7 +90,11 @@ As final considerations:
 
 ![Education](Images/education.jpg)
 
+<<<<<<< HEAD
 Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
+=======
+Well done! Having spent years analyzing financial records for big banks, you've finally scratched your idealistic itch and joined the education sector. In your latest role, you've become the Chief Data Scientist for your city's school district. In this capacity, you'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
+>>>>>>> c4b47ddd9da817fa7dfb7911c3a6acd79d87e026
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
